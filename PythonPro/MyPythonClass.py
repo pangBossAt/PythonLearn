@@ -1,0 +1,8 @@
+#!/usr/bin/python
+#!/user/bin/python
+class MyPython
+
+    def _init_ (self, num):
+        pass
+    def _iter_(self,num):
+        pass
