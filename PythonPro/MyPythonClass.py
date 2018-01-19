@@ -6,3 +6,6 @@ class MyPython
         pass
     def _iter_(self,num):
         pass
+class 
+	def _iniiit ():
+	pass
