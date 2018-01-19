@@ -9,3 +9,6 @@ class MyPython
 class 
 	def _iniiit ():
 	pass
+
+
+    pass
