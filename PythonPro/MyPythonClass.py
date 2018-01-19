@@ -14,4 +14,3 @@ class
     pass
 
 class testMyPython(object):
-    pass
